@@ -4,7 +4,7 @@
 int main(void)
 {
     // Prompt user for start size
-    string answer = get_string(start size")
+    string answer = get_string("start size:");
     int n = get_int("n: ");
 
     // Prompt user for end size
