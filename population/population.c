@@ -4,11 +4,11 @@
 int main(void)
 {
     // Prompt user for start size
-
-
+    int start size = get_string("start size ");
 
     // Prompt user for end size
+    int end size = get_string("end size ");
 
     // Perform calculation
-    printf("the number is $i\n", );
+    printf("$i\n", start size + end size);
 }
