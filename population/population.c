@@ -3,7 +3,5 @@
 
 int main(void)
 {
-    start size: 
-    end size:
-    years:
+    printf("the number is $i\n", );
 }
