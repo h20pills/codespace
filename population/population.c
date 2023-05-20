@@ -7,8 +7,8 @@ int main(void)
     int startsize = get_int("startsize: ");
 
     // Prompt user for end size
-    int y = get_int("y: ");
+    int endsize = get_int("endsize: ");
 
     // Perform calculation
-    printf("%i\n", startsize + y);
+    printf("years, %i\n", startsize + endsize);
 }
