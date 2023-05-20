@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    // eTODO: Prompt for start size
+    // TODO: Prompt for start size
 
     // TODO: Prompt for end size
 
