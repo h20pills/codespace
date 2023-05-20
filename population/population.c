@@ -10,5 +10,5 @@ int main(void)
     int end size = get_int("end size: ");
 
     // Perform calculation
-    printf("%i\n", start size + ennd size);
+    printf("%i\n", start size + end size);
 }
