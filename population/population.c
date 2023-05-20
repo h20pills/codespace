@@ -10,5 +10,5 @@ int main(void)
     int y = get_int("End size: ");
 
     // Perform calculation
-    printf("Years: %i\n", n = n + (n - 3) - (n / 4) );
+    printf("Years: %i\n", n + (n / 3) - (n / 4) );
 }
