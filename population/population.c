@@ -4,11 +4,12 @@
 int main(void)
 {
     // Prompt user for start size
-    int startsize = get_int("startsize: ");
+    string answer = get_string(start size")
+    int n = get_int("n: ");
 
     // Prompt user for end size
     int endsize = get_int("endsize: ");
 
     // Perform calculation
-    printf("years: %i\n", startsize + startsize / 3 - startsize / 4);
+    printf("years: %i\n", n + startsize / 3 - n / 4);
 }
