@@ -12,8 +12,8 @@ int main(void)
     // Perform calculation
     printf("Years: %i\n", n / 3 - n / 4);
 }
+
 int n;
-do
 {
     n = get_int("Positive_Integer: ");
 }
