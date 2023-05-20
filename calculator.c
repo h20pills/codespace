@@ -5,5 +5,5 @@ int main(void)
 {
    int x = get_int("x: ");
    int y = get_int("y: ");
-   printf("Answer %i\n", x / y);
+   printf("Answer, %i\n", x / y);
 }
