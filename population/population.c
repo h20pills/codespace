@@ -3,9 +3,9 @@
 
 int main(void)
 {
-    // TODO: Prompt for 
+    // TODO: Prompt for 100
 
-    // TODO: Prompt for end size
+    // TODO: Prompt for 200
 
     // TODO: Calculate number of years until we reach threshold
 
