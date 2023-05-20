@@ -4,11 +4,11 @@
 int main(void)
 {
     // Prompt user for start size
-    int startsize = get_int("startsize: ");
+    int start size = get_int("start size: ");
 
     // Prompt user for end size
-    int y = get_int("y: ");
+    int end size = get_int("end size: ");
 
     // Perform calculation
-    printf("%i\n", startsize + y);
+    printf("%i\n", start size + ennd size);
 }
