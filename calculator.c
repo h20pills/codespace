@@ -3,6 +3,6 @@
 
 int main(void)
 {
-   printf()
+   int x = get_int("x: ");
 
 }
