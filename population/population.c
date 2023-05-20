@@ -10,5 +10,5 @@ int main(void)
     int endsize = get_int("endsize: ");
 
     // Perform calculation
-    printf("years: %i\n", startsize + startsize / 3 - endsize / 4);
+    printf("years: %i\n", startsize + startsize / 3 - startsize / 4);
 }
