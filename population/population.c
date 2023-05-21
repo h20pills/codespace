@@ -8,7 +8,7 @@ int main(void)
     int n = get_int("Start size: ");
     if (n < 9)
 {
-    printf("wtf ");
+while (n < 9)
 }
     // Prompt user for end size
     int y = get_int("End size: ");
