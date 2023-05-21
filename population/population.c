@@ -6,6 +6,8 @@ int main(void)
 
     int n = get_int("Start size: ");
     int y = get_int("End size: ");
+while (true)
+{
 if (n < 9)
 {
     get_int("Start size: ");
