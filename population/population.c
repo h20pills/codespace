@@ -12,6 +12,7 @@ while (n < 9)
 }
    else if (n < 9) // Prompt user for end size
    { int y = get_int("End size: ");
+   }
 
     // Perform calculation
     printf("Years: %i", (n / 3) - (n / 4) + n);
