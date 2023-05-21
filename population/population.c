@@ -5,16 +5,13 @@ int main(void)
 {
 
     int n = get_int("Start size: ");
-while (true)
+while (n < 9)
 {
-    if (n < 9)
-    get_int("Start size: ");
+  n = get_int("Start size: ");
 }
-while (false)
+while (n < 9)
 {
-    if (n > 9)
-    int y = get_int("End size: ");
+    get_int("End size: ");
 }
-    // Perform calculation
     printf("Years: %i", (n / 3) - (n / 4) + n);
 }
