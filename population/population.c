@@ -14,7 +14,7 @@ int main(void)
     printf("Years: %i", (n / 3) - (n / 4) + n);
 }
 
-if (n < 9)
+int (n < 9)
 {
     printf("wtf: ")
 }
