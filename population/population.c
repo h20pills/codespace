@@ -16,7 +16,5 @@ int main(void)
 
 if (n < 9)
 {
-
-}
-    printf("wtf: ")'
+    printf("wtf: ")
 }
