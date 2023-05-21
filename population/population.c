@@ -6,7 +6,8 @@ int main(void)
 
     // Prompt user for start size
     int n = get_int("Start size: ");
-while (n < 9);
+while (n < 9)
+;
 {
     get_int("Start size: ");
     int y = get_int("End size: ");
