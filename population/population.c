@@ -13,7 +13,10 @@ int main(void)
     // Perform calculation
     printf("Years: %i", (n / 3) - (n / 4) + n);
 }
+
 if (n < 9)
 {
+
+}
     printf("wtf: ")'
 }
