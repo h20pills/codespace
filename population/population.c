@@ -3,7 +3,10 @@
 
 int main(void)
 {
-
+    if (n < 9)
+{
+    printf("wtf: ")
+}
     // Prompt user for start size
     int n = get_int("Start size: ");
 
@@ -12,9 +15,4 @@ int main(void)
 
     // Perform calculation
     printf("Years: %i", (n / 3) - (n / 4) + n);
-}
-
-int (n < 9)
-{
-    printf("wtf: ")
 }
