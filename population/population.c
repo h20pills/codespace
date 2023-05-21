@@ -3,13 +3,13 @@
 
 int main(void)
 {
+
+    // Prompt user for start size
+    int n = get_int("Start size: ");
     if (n < 9)
 {
     printf("wtf: ")
 }
-    // Prompt user for start size
-    int n = get_int("Start size: ");
-
     // Prompt user for end size
     int y = get_int("End size: ");
 
