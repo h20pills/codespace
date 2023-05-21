@@ -2,11 +2,8 @@
 #include <stdio.h>
 
 int main(void)
-int n;
-do
 {
-    n = get_int("Positive Integer:" );
-{
+
     // Prompt user for start size
     int n = get_int("Start size: ");
 
@@ -16,4 +13,7 @@ do
     // Perform calculation
     printf("Years: %i", (n / 3) - (n / 4) + n);
 }
+if (n < 9)
+{
+    printf("wtf: ")'
 }
